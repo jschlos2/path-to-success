@@ -272,6 +272,7 @@ header {
     color: var(--Dark-gray);
     margin-bottom: 1rem;
     margin: 0 auto 1rem auto;
+    border-collapse: collapse;
 }
 .price-table th{
     background-color: var(--Yellow);
@@ -283,6 +284,10 @@ header {
 .price-table td{
     padding: 0.75rem;
     text-align:left;
+}
+.price-table th,
+.price-table td{
+    border: 2px solid var(--Yellow);
 }
 #first-step{
     background-color: var(--Pink);
