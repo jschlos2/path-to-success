@@ -171,4 +171,32 @@ header {
     width:80px;
     margin: 0 auto 1rem;
 }
-.online{}
+.workshops-seminars img{
+    width:80px;
+    margin: 0 auto 1rem;
+}
+.online img{
+    width:80px;
+    margin: 0 auto 1rem;
+
+}
+.one-on-one h4{
+    font-size: 1.15em;
+    text-align: center;
+    margin-bottom:0.5rem;
+}
+.group h4{
+    font-size: 1.15em;
+    text-align: center;
+    margin-bottom:0.5rem;
+}
+.workshops-seminars h4{
+    font-size: 1.15em;
+    text-align: center;
+    margin-bottom:0.5rem;
+}
+.online h4{
+    font-size: 1.15em;
+    text-align: center;
+    margin-bottom:0.5rem;
+}
