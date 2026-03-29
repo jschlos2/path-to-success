@@ -121,3 +121,21 @@ nav a{
     font-weight:bold;
     padding:0.75rem;
 }
+header {
+    background-color: var(--Purple);
+}
+#services{
+    background-color:var(--Purple);
+    padding:1.25rem;
+}
+#services h2{
+    font-size: 2em;
+    color:var(--White);
+    margin-bottom: 1rem;
+}
+#services h3{
+    font-size:1.5em;
+    color: var(--Yellow);
+    margin-bottom:1rem;
+    margin-top: 1.5rem;
+}
