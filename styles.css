@@ -259,3 +259,25 @@ header {
     padding: 0.75rem;
     text-align:left;
 }
+#first-step{
+    background-color: var(pink);
+    color:var(--White);
+    text-align: center;
+    padding: 1.25rem;
+}
+#first-step h2{
+    font-size: 2em;
+    margin-bottom: 1rem;
+}
+#first-step p{
+    line-height: 1.5;
+}
+#first-step a{
+    display: block;
+    background-color: var(--White);
+    color: var(--Dark-gray);
+    text-decoration: none;
+    font-weight: bold;
+    padding:0.75rem;
+    margin-top: 1rem;
+}
