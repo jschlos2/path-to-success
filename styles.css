@@ -200,3 +200,62 @@ header {
     text-align: center;
     margin-bottom:0.5rem;
 }
+.one-on-one p{
+    text-align: center;
+    line-height: 1.5;
+}
+.group p{
+    text-align: center;
+    line-height: 1.5;
+}
+.workshops-seminars p{
+    text-align: center;
+    line-height: 1.5;
+}
+.online p{
+    text-align: center;
+    line-height: 1.5;
+}
+#why-us{
+    background-color: var(--Pink);
+    color:var(--White);
+    padding:1.25rem;
+}
+#why-us h2{
+    font-size: 2em;
+    margin-bottom: 1rem;
+}
+.benefits li{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom:0.75rem;
+    line-height: 1.5;
+}
+#pricing{
+    background-color: var(--Purple);
+    color:var(--White);
+    padding:1.25rem;
+}
+#pricing h3 {
+    font-size:1.5em;
+    color: var(--Yellow);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+.price-table{
+    width: 100%;
+    background-color: var(--White);
+    color: var(--Dark-gray);
+    margin-bottom: 1rem;
+}
+.price-table th{
+    background-color: var(--Yellow);
+    padding: 0.75rem;
+    text-align:left;
+    font-weight:bold;
+
+}
+.price-table td{
+    padding: 0.75rem;
+    text-align:left;
+}
