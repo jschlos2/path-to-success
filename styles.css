@@ -144,6 +144,7 @@ header {
     border-radius: 1rem;
     padding:1rem;
     margin-bottom:1rem;
+    
 }
 .group{
     background-color: var(--White);
@@ -225,11 +226,34 @@ header {
     font-size: 2em;
     margin-bottom: 1rem;
 }
+.benefits{
+    padding:0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 .benefits li{
     font-weight: bold;
     text-align: center;
     margin-bottom:0.75rem;
     line-height: 1.5;
+    padding:1.25rem 0.75rem;
+    border-radius: 1rem;
+    color: var(--Dark-gray);
+    width:48%;
+    box-sizing: border-box;
+}
+.benefits li:nth-child(1){
+    background-color: var(--Teal);
+}
+.benefits li:nth-child(2){
+    background-color: var(--Lavender);
+}
+.benefits li:nth-child(3){
+    background-color: var(--Yellow);
+}
+.benefits li:nth-child(4){
+    background-color: var(--White);
 }
 #pricing{
     background-color: var(--Purple);
