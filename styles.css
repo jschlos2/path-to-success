@@ -65,8 +65,8 @@ table {
 /*GLOBAL STYLES(mobile first/small)*/
 
 body{
-    font-family:"Inter",sans-serif;
-    background-color: var(--lavender);
+    font-family:"Inter", sans-serif;
+    background-color: var(--Lavender);
     color:var(--Dark-gray);
 }
 header,
