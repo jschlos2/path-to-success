@@ -139,3 +139,36 @@ header {
     margin-bottom:1rem;
     margin-top: 1.5rem;
 }
+.one-on-one{
+    background-color: var(--White);
+    border-radius: 1rem;
+    padding:1rem;
+    margin-bottom:1rem;
+}
+.group{
+    background-color: var(--White);
+    border-radius: 1rem;
+    padding:1rem;
+    margin-bottom:1rem;
+}
+.workshops-seminars{
+    background-color: var(--White);
+    border-radius: 1rem;
+    padding:1rem;
+    margin-bottom:1rem;
+}
+.online{
+    background-color: var(--White);
+    border-radius: 1rem;
+    padding:1rem;
+    margin-bottom:1rem;
+}
+.one-on-one img{
+    width:80px;
+    margin: 0 auto 1rem;
+}
+.group img{
+    width:80px;
+    margin: 0 auto 1rem;
+}
+.online{}
