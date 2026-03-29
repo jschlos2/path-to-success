@@ -267,10 +267,11 @@ header {
     margin-bottom: 0.75rem;
 }
 .price-table{
-    width: 100%;
+    width: 85%;
     background-color: var(--White);
     color: var(--Dark-gray);
     margin-bottom: 1rem;
+    margin: 0 auto 1rem auto;
 }
 .price-table th{
     background-color: var(--Yellow);
@@ -284,7 +285,7 @@ header {
     text-align:left;
 }
 #first-step{
-    background-color: var(pink);
+    background-color: var(--Pink);
     color:var(--White);
     text-align: center;
     padding: 1.25rem;
@@ -305,7 +306,9 @@ header {
     padding:0.75rem;
     margin-top: 1rem;
     border-radius: 0.5rem;
-    box-shadow: 0 4px 0 var(--Dark-gray);
+    box-shadow: 0 3px 0 var(--Dark-gray);
+    width:80%;
+    margin:1rem auto 0;
 }
 footer{
     background-color: var(--Purple);
