@@ -115,7 +115,7 @@ nav li{
 nav a{
     display: block;
     background-color:var(--White);
-    color:var(--Purple)
+    color:var(--Purple);
     text-decoration: none;
     text-align: center;
     font-weight:bold;
